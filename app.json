@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "aciolehelp",
+    "slug": "aciolehelp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
