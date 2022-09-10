@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "748419480024",
+    "project_id": "aciolehelp",
+    "storage_bucket": "aciolehelp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748419480024:android:0768edbc278bcdb2bb9aad",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748419480024-rm4bcda3vqsil3knfe41vpe498rj5tqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0oWzctyHI7Rc7A5PGGFb2EbEX3x63KF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748419480024-rm4bcda3vqsil3knfe41vpe498rj5tqr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "748419480024-pirrvi16kcdppbfilr8r28jhla9aas8u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.android.application"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
